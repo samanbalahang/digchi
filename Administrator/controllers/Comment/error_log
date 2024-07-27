@@ -1,0 +1,24 @@
+[13-May-2020 22:15:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'Comment' not found in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php on line 4
+[13-May-2020 22:22:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'Comment' not found in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php on line 4
+[13-May-2020 22:25:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'Comment' not found in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php on line 4
+[13-May-2020 22:25:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'Comment' not found in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php on line 4
+[13-May-2020 22:26:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'Comment' not found in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php on line 4
+[13-May-2020 22:43:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class 'Comment' not found in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/digchi/public_html/new1/Administrator/controllers/Comment/Comment.php on line 4
